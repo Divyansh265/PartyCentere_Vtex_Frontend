@@ -55,7 +55,7 @@ function ProductSlider() {
                         <h3 className="product-name">{product.ProductName || 'Unnamed Product'}</h3>
                         <p className="product-price">
                             {/* You can customize this to show the price if available */}
-                            SAR 225.00
+                            SAR 215.00
                         </p>
                     </Link>
                 ))}
